@@ -1,0 +1,21 @@
+.buildings img{
+  width: 500px;
+}
+
+.main{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin-top: 100px;
+}
+.letters{
+   font-size: large;
+   margin-left: 100px;
+}
+
+.image2 img{
+    width: 350px;
+}
+.computer{
+    display: flex;
+    justify-content: space-around;
+}
